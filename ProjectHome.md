@@ -1,0 +1,2 @@
+This is an active Repository for all Interactive IO projects.
+The the pc software and firmware are licensed under GNU GPL 3.0, hardware, hardware schematics is licensed under Creative Commons CC BY-NC-ND 2.5
